@@ -1,7 +1,29 @@
-- name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+- name: Wordgrid 2
+  link: expo.io/@ryanapking/wordgrid2
+  github: ryanapking/wordgrid2-react-native-public
+#  quote: >
+#    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    An original word game inspired by 1010! and Boggle, combining the two into a multiplayer strategy game for Android and iOS. The game also features a daily challenge mode where users can compete to get the highest score on a single-players version of the game.
+
+    Created with: **React Native, Expo, Redux, React Router, Parse**
+
+    [![Wordgrid 2 Screen Capture](/images/wordgrid2-screencap.gif){:class="img-responsive project-img"}](https://expo.io/@ryanapking/wordgrid2)
+- name: Freecell Solitaire
+  link: ryanapking.github.io/solitaire
+  github: ryanapking/solitaire
+  description: |
+    A version of the popular card game with some modifications. The project was created as a way to learn about state management with MobX. It quickly became something more complex than solitaire, attempting to turn my love of freecell into meta-game involving ever-changing API documentation.
+
+    Created with: **React, MobX**
+
+    [![Solitaire Screen Capture](/images/solitaire-screencap.png){:class="img-responsive project-img"}](https://ryanapking.github.io/solitaire)
+- name: Textris
+  link: ryanapking.github.io/textris
+  github: ryanapking/textris
+  description: |
+    A clone of the game Tetris paying homage to the NES version. It was initially created to learn about JavaScript timing events. The initial version was a text-based display that was later converted to a prettier UI using an HTML canvas.
+
+    Created with: **Javascript, jQuery, Bootstrap**
+
+    [![Textris Screen Capture](/images/textris-screengrab.png){:class="img-responsive project-img"}](https://ryanapking.github.io/textris)
